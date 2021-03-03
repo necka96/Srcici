@@ -82,7 +82,7 @@ section h1 span {
   }
 }
 @media (max-width: 768px) {
-  body {
-    height: 100vh;
+  section {
+    overflow: hidden;
   }
 }
